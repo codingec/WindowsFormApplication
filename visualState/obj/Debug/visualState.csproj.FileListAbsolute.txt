@@ -1,0 +1,12 @@
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\visualState.exe.config
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\visualState.exe
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\visualState.pdb
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\EntityFramework.dll
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\EntityFramework.xml
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\obj\Debug\visualState.Form1.resources
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\obj\Debug\visualState.Properties.Resources.resources
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\obj\Debug\visualState.csproj.GenerateResource.Cache
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\obj\Debug\visualState.exe
+C:\Users\anderson\Documents\Visual Studio 2015\Projects\visualState\visualState\obj\Debug\visualState.pdb
