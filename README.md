@@ -1,5 +1,8 @@
-"#WindowsFormApplication" 
-Create a dable Products with the next values, or you could also just copy and paste this code and run it to create your table.
+##CREATE A DATABASE NAMED DEEPc
+
+
+##CREATE A TABLE
+Create a Table Products with the next values, or you could also just copy and paste this code and run it to create your table.
 
 CREATE TABLE [dbo].[Products] (
     [Id]          INT        IDENTITY (100, 10) NOT NULL,
@@ -9,3 +12,5 @@ CREATE TABLE [dbo].[Products] (
     [quantity]    NCHAR (10) NULL,
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
+
+##OPEN SOLUTION IN VISUAL STUDIO 2015
